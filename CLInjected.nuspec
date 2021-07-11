@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
-    <id>CSharpSkeleton.Template</id>
-    <title>CSharpSkeleton.Template</title>
+    <id>CLInjected.Template</id>
+    <title>CLInjected.Template</title>
     <version>0.1.0</version>
     <authors>Andres Galvan</authors>
     <owners>Andres Galvan</owners>
@@ -10,17 +10,17 @@
       Basic console application template
     </description>
     <language>en-US</language>
-    <projectUrl>https://github.com/afgalvan/CSharpSkeleton</projectUrl>
-    <licenseUrl>https://www.gnu.org/licenses/gpl-3.0.html</licenseUrl>
+    <projectUrl>https://github.com/afgalvan/CLInjected</projectUrl>
+    <license type="expression">MIT</license>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <releaseNotes>Add editorconfig and gitignore to project</releaseNotes>
+    <releaseNotes>Initial release</releaseNotes>
     <packageTypes>
       <packageType name="Template" />
     </packageTypes>
-    <tags>solution console c# skeleton</tags>
+    <tags>solution console c# dependency-injection template docker</tags>
     <copyright>Copyright 2021</copyright>
   </metadata>
   <files>
-    <file src=".\**" target="content" exclude="**\bin\**;*.nuspec;*.config;**\obj\**;**\.git\**;**\.github\**;**\*.user;**\.idea\**;**\.vscode\**" />
+    <file src=".\**" target="content" exclude="**\bin\**;*.nuspec;*.config;**\obj\**;**\.git\**;**\.github\workflows\publish.yml**;**\*.user;**\.idea\**;**\.vscode\**" />
   </files>
 </package>

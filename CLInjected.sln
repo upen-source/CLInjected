@@ -5,11 +5,11 @@ VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{565C6579-A7B1-4F06-8008-6FA5D45BAAE6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpSkeleton", "src\CSharpSkeleton\CSharpSkeleton.csproj", "{97576997-05A4-4E64-A009-E727BCE8DA82}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CLInjected", "src\CLInjected\CLInjected.csproj", "{97576997-05A4-4E64-A009-E727BCE8DA82}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{352B3D40-F028-453F-A52E-5FE09DAF7D97}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpSkeleton.Test", "test\CSharpSkeleton.Test\CSharpSkeleton.Test.csproj", "{5FD9DDE3-0FE5-4476-9A74-1E736CE8C868}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CLInjected.Test", "test\CLInjected.Test\CLInjected.Test.csproj", "{5FD9DDE3-0FE5-4476-9A74-1E736CE8C868}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

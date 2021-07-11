@@ -1,10 +1,13 @@
-# CSharpSkeleton
+<img src="clinjection.png" alt="clinjected logo" width="45%"/>
 
-![NuGet](https://github.com/afgalvan/CSharpSkeleton/actions/workflows/publish.yml/badge.svg)
+# CLInjected
 
-Basic C# project structure.
+![NuGet](https://github.com/afgalvan/CLInjected/actions/workflows/publish.yml/badge.svg)
+![.NET](https://github.com/afgalvan/CLInjected/actions/workflows/dotnet.yml/badge.svg)
 
-[NuGet Package](https://www.nuget.org/packages/CSharpSkeleton.Template/)
+C# console project structure with dependency injection.
+
+[NuGet Package](https://www.nuget.org/packages/CLInjected.Template/)
 
 ## Features
 
@@ -14,11 +17,11 @@ Basic C# project structure.
 ## Installation
 
 ```bash
-dotnet new -i CSharpSkeleton.Template
+dotnet new -i CLInjected.Template
 ```
 
 ## Usage
 
 ```bash
-dotnet new skeleton -o Your.Project
+dotnet new cli-di -o Your.Project
 ```

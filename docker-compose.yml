@@ -6,6 +6,6 @@ services:
     container_name: application-name
     build:
       context: .
-      dockerfile: src/CSharpSkeleton/Dockerfile
+      dockerfile: src/CLInjected/Dockerfile
     environment:
-      - ENVIRONMENT=Docker
+      - ENVIRONMENT=Docker.

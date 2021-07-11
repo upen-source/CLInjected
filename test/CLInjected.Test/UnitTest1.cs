@@ -1,6 +1,6 @@
 using NUnit.Framework;
 
-namespace CSharpSkeleton.Test
+namespace CLInjected.Test
 {
     public class Tests
     {
