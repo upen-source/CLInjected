@@ -1,4 +1,4 @@
-<img src="clinjection.png" alt="clinjected logo" width="45%"/>
+<img src="clinjection.png" alt="clinjected logo" width="30%"/>
 
 # CLInjected
 

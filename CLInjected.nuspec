@@ -11,6 +11,7 @@
     </description>
     <language>en-US</language>
     <projectUrl>https://github.com/afgalvan/CLInjected</projectUrl>
+    <repository type="git" url="https://github.com/afgalvan/CLInjected" />
     <license type="expression">MIT</license>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <releaseNotes>Package metadata fixed</releaseNotes>
@@ -18,7 +19,7 @@
       <packageType name="Template" />
     </packageTypes>
     <tags>console c# dependency-injection template docker</tags>
-    <icon>./clinjection.png</icon>
+    <icon>https://github.com/afgalvan/CLInjected/blob/main/clinjection.png</icon>
     <copyright>Copyright 2021</copyright>
   </metadata>
   <files>
