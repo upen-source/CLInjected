@@ -1,4 +1,4 @@
-<img src="clinjection.png" alt="clinjected logo" width="30%"/>
+<img src="clinjection.png" alt="clinjected logo" width="20%"/>
 
 # CLInjected
 
@@ -10,7 +10,7 @@ C# console project structure with dependency injection.
 [NuGet Package](https://www.nuget.org/packages/CLInjected.Template/)
 
 ## Features
-
+- Dependency injection
 - Docker & docker compose
 - editorconfig
 

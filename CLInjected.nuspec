@@ -19,10 +19,10 @@
       <packageType name="Template" />
     </packageTypes>
     <tags>console c# dependency-injection template docker</tags>
-    <icon>https://github.com/afgalvan/CLInjected/blob/main/clinjection.png</icon>
+    <icon>clinjection.png</icon>
     <copyright>Copyright 2021</copyright>
   </metadata>
   <files>
-    <file src=".\**" target="content" exclude="**\bin\**;*.nuspec;*.config;**\obj\**;**\.git\**;**\.github\workflows\publish.yml;**\*.user;**\.idea\**;**\.vscode\**" />
+    <file src=".\**" target="content" exclude="**\bin\**;*.nuspec;*.config;**\obj\**;**\.git\**;**\.github\workflows\publish.yml;**\*.user;**\.idea\**;**\.vscode\**;\**\.template.config" />
   </files>
 </package>
