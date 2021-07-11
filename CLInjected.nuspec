@@ -19,7 +19,6 @@
       <packageType name="Template" />
     </packageTypes>
     <tags>console c# dependency-injection template docker</tags>
-    <icon>clinjection.png</icon>
     <copyright>Copyright 2021</copyright>
   </metadata>
   <files>
