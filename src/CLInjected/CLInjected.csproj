@@ -4,18 +4,7 @@
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
     <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
-    <NeutralLanguage>en-US</NeutralLanguage>
-    <PackageId>CLInjected.Template</PackageId>
-    <Title>CLInjected.Template</Title>
-    <Authors>Andres Galvan</Authors>
-    <Description>C# console application with dependency injection template</Description>
-    <PackageProjectUrl>https://github.com/afgalvan/CLInjected</PackageProjectUrl>
-    <RepositoryUrl>https://github.com/afgalvan/CLInjected</RepositoryUrl>
-    <RepositoryType>GitHub</RepositoryType>
-    <PackageTags>console c# dependency-injection docker</PackageTags>
-    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-    <PackageVersion>0.1.1</PackageVersion>
-    <PackageIconUrl>./clinjection.png</PackageIconUrl>
+    <Description>C# console application with dependency injection</Description>
   </PropertyGroup>
 
   <ItemGroup>

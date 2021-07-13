@@ -1,9 +1,9 @@
 {
   "$schema": "http://json.schemastore.org/template",
   "author": "Andres Galvan",
-  "classifications": ["Console", "C#", "Dependency injection"],
+  "classifications": ["Console", "Dependency Injection"],
   "identity": "CLInjected",
-  "name": "CLInjected: Console application with dependency injection",
+  "name": "Console application with dependency injection",
   "shortName": "cli-di",
   "sourceName": "CLInjected",
   "preferNameDirectory": true,

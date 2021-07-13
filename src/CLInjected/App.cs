@@ -19,11 +19,11 @@ namespace CLInjected
 
         public Task StartAsync(CancellationToken cancellationToken)
         {
-            _appLifetime.ApplicationStarted.Register(() =>
-                Task.Run(() =>
+            _appLifetime.ApplicationStarted.Register(async () =>
+                await Task.Run(() =>
                 {
                     Console.WriteLine("Hello, World!");
-                })
+                }, cancellationToken)
             );
 
             return Task.CompletedTask;

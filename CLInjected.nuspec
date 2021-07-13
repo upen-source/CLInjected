@@ -3,7 +3,7 @@
   <metadata>
     <id>CLInjected.Template</id>
     <title>CLInjected.Template</title>
-    <version>0.1.1</version>
+    <version>0.1.2</version>
     <authors>Andres Galvan</authors>
     <owners>Andres Galvan</owners>
     <description>
@@ -14,7 +14,7 @@
     <repository type="git" url="https://github.com/afgalvan/CLInjected" />
     <license type="expression">MIT</license>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <releaseNotes>Package metadata fixed</releaseNotes>
+    <releaseNotes>Remove nuget data at csproj template file</releaseNotes>
     <packageTypes>
       <packageType name="Template" />
     </packageTypes>
