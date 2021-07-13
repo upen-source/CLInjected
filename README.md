@@ -2,12 +2,11 @@
 
 # CLInjected
 
-![NuGet](https://github.com/afgalvan/CLInjected/actions/workflows/publish.yml/badge.svg)
-![.NET](https://github.com/afgalvan/CLInjected/actions/workflows/dotnet.yml/badge.svg)
+[![.NET](https://github.com/afgalvan/CLInjected/actions/workflows/dotnet.yml/badge.svg)](https://github.com/afgalvan/CLInjected/actions/workflows/dotnet.yml)
+[![NuGet](https://github.com/afgalvan/CLInjected/actions/workflows/publish.yml/badge.svg)](https://github.com/afgalvan/CLInjected/actions/workflows/publish.yml)
+[![Nuget Version](https://img.shields.io/nuget/v/CLInjected.Template.svg)](https://www.nuget.org/packages/CLInjected.Template/)
 
 C# console project structure with dependency injection.
-
-[NuGet Package](https://www.nuget.org/packages/CLInjected.Template/)
 
 ## Features
 - Dependency injection
